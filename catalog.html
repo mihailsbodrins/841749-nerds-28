@@ -31,16 +31,17 @@
       <h1>Магазин готовых шаблонов</h1>
       <h2 class="visually-hidden">Фильтр</h2>
       <h3>Стоимость:</h3>
-      <!-- фильтр на сумму  -->
-      
-      <input type="range" id="max" min="0" max="15000" step="1">
+      <!-- без js тут не разобраться  -->
+      <div class="range">
+        <input type="range" id="min" min="0" max="15000" step="1">
+        <input type="range" id="max" min="0" max="15000" step="1">
+      </div>  
       <label for="min">От</label>
-      <input type="range" id="min" min="0" max="15000" step="1">
       <input type="number" name="min" id="min" min="0" max="15000" step="1" value="0">
       <label for="max">До</label>
       <input type="number" name="max" id="max" min="0" max="15000" step="1" value="20000">
       <h3>Сетка:</h3>
-      <form action="uri" method="post">
+      <form action="uri" method="post"></form>
         <label>
           <input type="radio" name="net" value="adaptive" checked>
           Адаптивная
