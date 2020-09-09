@@ -1,7 +1,7 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Mihails Bodrins](https://up.htmlacademy.ru/htmlcss/28/user/841749).
-* Наставник: `Чудо Рыба КИТ`.
+* Наставник: `LuLa`.
 
 ---
 
